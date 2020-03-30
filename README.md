@@ -11,7 +11,7 @@ Hey guys,
 
 # Installation
 
-Clone this project using GIT: `git clone <THIS REPO>`
+Clone this project using GIT: `git clone git@github.com:hassanazimi/Quidco.git`
 Please run the commands below one by one:
 
 ```bash
