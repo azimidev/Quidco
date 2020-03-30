@@ -11,8 +11,9 @@ Hey guys,
 
 # Installation
 
-Clone this project using GIT: `git clone git@github.com:hassanazimi/Quidco.git`
-Please run the commands below one by one:
+1. Clone this project using GIT: `git clone git@github.com:hassanazimi/Quidco.git`
+2. Change directory: `cd Quidco`
+3. Please run the commands below one by one in the root of the app:
 
 ```bash
 
